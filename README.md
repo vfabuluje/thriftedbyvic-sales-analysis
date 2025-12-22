@@ -28,3 +28,15 @@ The goal of this analysis was to identify actionable insights that could inform 
 - Depop supports higher sales volume at lower average prices, while Mercari enables higher-priced transactions at lower frequency.
 
 ## Project Structure
+thriftedbyvic-sales-analytics/
+├── data/
+│   └── sales_all_platforms_clean.csv
+├── sql/
+│   └── thriftedbyvic_analysis.sql
+├── charts/
+│   ├── sales_by_hour.png
+│   ├── avg_days_to_sell.png
+│   └── avg_price_by_platform.png
+├── thriftedbyvic.db
+└── summary/
+└── notes.md
