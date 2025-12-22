@@ -1,0 +1,115 @@
+sale_id,platform,date_sold,time_sold,date_listed,brand,sales_price,category
+1,Depop,4/2/24,17:44,3/16/24,Other,10.00,Tops
+2,Depop,4/3/24,12:30,3/25/24,Carhartt,35.00,Bottoms
+3,Depop,4/4/24,1:40,3/31/24,Other,25.00,Tops
+4,Depop,4/5/24,1:30,2/28/24,Nike,24.00,Tops
+5,Depop,4/9/24,22:45,3/10/24,Old Navy,15.00,Bottoms
+6,Depop,4/11/24,19:53,3/10/24,Other,15.00,Tops
+7,Depop,4/12/24,17:06,4/10/24,Other,5.00,Tops
+8,Depop,4/14/24,18:45,3/16/24,Other,8.00,Tops
+9,Depop,4/16/24,14:27,4/14/24,Carhartt,45.00,Bottoms
+10,Depop,4/17/24,11:24,3/17/24,Jerzees,12.00,Bottoms
+11,Depop,4/17/24,14:54,2/4/24,Other,15.00,Tops
+12,Depop,4/17/24,18:49,2/28/24,Dockers,10.00,Bottoms
+13,Depop,4/18/24,23:45,4/14/24,Adidas,15.00,Bottoms
+14,Depop,4/19/24,2:33,4/18/24,Nike,25.00,Bottoms
+15,Depop,4/19/24,13:07,4/18/24,Nike,15.00,Bottoms
+16,Depop,4/20/24,21:13,4/14/24,Other,20.00,Bottoms
+17,Depop,4/21/24,4:36,9/27/23,Hanes,10.00,Tops
+18,Depop,4/24/24,15:59,4/10/24,Gildan,20.00,Tops
+19,Depop,4/25/24,20:45,2/28/24,Hanes,15.00,Bottoms
+20,Depop,5/2/24,5:04,4/18/24,Anvil,15.00,Tops
+21,Depop,5/3/24,4:50,2/19/24,Russell Athletic,12.75,Tops
+22,Depop,5/4/24,18:31,4/10/24,Wrangler,17.00,Bottoms
+23,Depop,5/8/24,4:32,4/10/24,No Fear,25.50,Tops
+24,Depop,5/11/24,0:02,5/9/24,Wrangler,12.00,Bottoms
+25,Depop,5/11/24,14:32,5/10/24,Nike,25.00,Bottoms
+26,Depop,5/12/24,1:57,5/10/24,Nike,19.00,Bottoms
+27,Depop,5/12/24,17:06,2/19/24,Carhartt,24.00,Bottoms
+28,Depop,5/12/24,21:06,5/9/24,Carhartt,20.00,Tops
+29,Depop,5/12/24,21:23,5/11/24,Nike,32.00,Tops
+30,Depop,5/15/24,6:57,5/9/24,Carhartt,20.00,Bottoms
+31,Depop,5/15/24,21:57,5/15/24,Patagonia,12.00,Tops
+32,Depop,5/17/24,0:12,5/9/24,Disney,10.00,Tops
+33,Depop,5/17/24,17:20,5/15/24,Russell Athletic,25.00,Tops
+34,Depop,5/19/24,21:30,5/15/24,Nike,12.00,Tops
+35,Depop,5/21/24,0:25,5/15/24,Other,35.00,Tops
+36,Depop,5/26/24,21:17,5/9/24,Lee,15.00,Tops
+37,Depop,5/26/24,21:52,5/15/24,Adidas,30.00,Bottoms
+38,Depop,5/27/24,1:24,5/23/24,Other,15.00,Bottoms
+39,Depop,5/27/24,2:49,5/27/24,Tultex,15.00,Tops
+40,Depop,5/27/24,3:12,5/19/24,Christian Dior,25.00,Bottoms
+41,Depop,5/27/24,3:27,5/27/24,Lee,8.00,Tops
+42,Depop,5/27/24,5:19,5/27/24,Other,15.00,Tops
+43,Depop,5/27/24,12:48,5/19/24,Wrangler,17.00,Bottoms
+44,Depop,5/28/24,6:04,5/27/24,Other,15.00,Tops
+45,Depop,5/28/24,15:04,5/27/24,Realtree,20.00,Tops
+46,Depop,5/28/24,15:07,5/13/24,Carhartt,20.00,Bottoms
+47,Depop,5/28/24,15:07,5/27/24,Other,35.00,Tops
+48,Depop,5/28/24,15:07,5/28/24,Carhartt,25.00,Bottoms
+49,Depop,5/28/24,23:43,5/27/24,Lee,20.00,Tops
+50,Depop,5/30/24,7:51,5/30/24,Quiksilver,20.00,Tops
+51,Depop,5/30/24,13:24,5/30/24,DC Shoes,25.00,Tops
+52,Depop,5/30/24,18:55,5/30/24,Nike,20.00,Tops
+53,Depop,5/30/24,20:03,5/30/24,West Coast Choppers,25.00,Tops
+54,Depop,5/31/24,0:33,5/27/24,Patagonia,12.00,Tops
+55,Depop,5/31/24,4:41,5/15/24,47,20.00,Tops
+56,Depop,5/31/24,5:33,5/27/24,Hanes,12.00,Tops
+57,Depop,5/31/24,12:27,5/28/24,Other,15.00,Tops
+58,Depop,5/31/24,17:49,5/31/24,Other,20.00,Tops
+59,Depop,6/1/24,1:08,5/30/24,Quiksilver,20.00,Tops
+60,Depop,6/1/24,2:36,5/31/24,Other,20.00,Tops
+61,Depop,6/1/24,2:37,5/30/24,Wrangler,25.00,Bottoms
+62,Depop,6/2/24,4:52,5/27/24,Jerzees,12.80,Tops
+63,Depop,6/2/24,7:52,6/2/24,Levi's,25.00,Bottoms
+64,Depop,6/3/24,4:40,6/2/24,Nike,25.50,Bottoms
+65,Depop,6/4/24,12:43,5/31/24,Reebok,20.00,Tops
+66,Depop,6/5/24,6:34,5/27/24,Changes,50.00,Tops
+67,Depop,6/5/24,22:40,6/5/24,Other,25.00,Tops
+68,Depop,6/6/24,3:16,6/5/24,Gildan,15.00,Tops
+69,Depop,6/7/24,0:07,5/27/24,Other,16.00,Tops
+70,Depop,6/7/24,5:44,6/5/24,Realtree,25.00,Bottoms
+71,Depop,6/7/24,16:02,5/27/24,Other,12.00,Tops
+72,Depop,6/7/24,16:55,6/4/24,Airwalk,11.50,Tops
+73,Depop,6/7/24,20:43,6/5/24,Wrangler,25.00,Bottoms
+74,Depop,6/8/24,4:54,5/31/24,Gildan,8.00,Tops
+75,Depop,6/8/24,15:45,5/30/24,Harley Davidson,15.00,Tops
+76,Depop,6/8/24,21:08,6/4/24,Other,25.00,Bottoms
+77,Depop,6/9/24,18:41,6/5/24,Dickies,18.00,Bottoms
+78,Depop,6/9/24,18:46,5/27/24,Billionaire Boys Club,30.00,Tops
+79,Depop,6/10/24,1:00,6/4/24,Dickies,25.00,Bottoms
+80,Depop,6/10/24,16:40,5/27/24,Umbro,20.00,Tops
+81,Depop,6/10/24,22:01,6/10/24,Abercrombie & Fitch,25.00,Bottoms
+82,Depop,6/11/24,15:47,6/9/24,Other,30.00,Tops
+83,Depop,6/12/24,20:13,5/27/24,Independent,10.00,Tops
+84,Depop,6/12/24,23:09,5/27/24,Other,10.00,Tops
+85,Depop,6/13/24,5:05,6/11/24,Ralph Lauren,20.00,Tops
+86,Depop,6/15/24,9:27,5/27/24,Changes,25.00,Tops
+87,Depop,6/15/24,16:04,6/9/24,Other,15.00,Tops
+88,Depop,6/18/24,18:39,6/12/24,Harley Davidson,12.00,Tops
+89,Depop,6/18/24,18:50,5/27/24,Other,12.00,Tops
+90,Depop,6/20/24,20:19,6/12/24,Other,30.00,Tops
+91,Depop,6/21/24,19:03,5/31/24,Tultex,21.00,Tops
+92,Depop,6/25/24,1:24,6/22/24,JNCO,30.00,Tops
+93,Depop,6/26/24,19:58,5/27/24,Tultex,18.00,Tops
+94,Depop,6/26/24,22:21,5/27/24,Other,9.00,Tops
+95,Depop,6/26/24,23:21,6/24/24,Champion,20.00,Tops
+96,Depop,6/27/24,12:30,6/9/24,Wrangler,22.00,Bottoms
+97,Depop,6/27/24,21:49,5/9/24,Adidas,12.00,Tops
+98,Poshmark,4/14/24,NULL,10/9/23,Gildan,10.00,Tops
+99,Poshmark,6/23/24,NULL,6/4/24,Nike,42.00,Shoes
+100,Poshmark,10/20/24,NULL,10/3/24,Unknown,10.00,Tops
+101,Mercari,4/4/24,NULL,4/9/24,Nike,22.50,Tops
+102,Mercari,4/4/24,NULL,4/13/24,Dr. Martens,60.00,Shoes
+103,Mercari,5/10/24,NULL,5/16/24,Levi,20.00,Bottoms
+104,Mercari,5/27/24,NULL,6/3/24,Vintage,40.00,Tops
+105,Mercari,5/28/24,NULL,5/28/24,Patagonia,25.00,Tops
+106,Mercari,5/28/24,NULL,6/3/24,Harley Davidson,51.00,Tops
+107,Mercari,5/30/24,NULL,6/6/24,Vintage,40.00,Tops
+108,Mercari,5/30/24,NULL,6/7/24,Harley Davidson,15.00,Tops
+109,Mercari,5/30/24,NULL,6/4/24,No Fear,8.00,Tops
+110,Mercari,5/31/24,NULL,6/5/24,Vintage,12.50,Tops
+111,Mercari,5/31/24,NULL,6/5/24,Vintage,20.00,Tops
+112,Mercari,6/11/24,NULL,6/13/24,Vintage,25.00,Tops
+113,Mercari,6/16/24,NULL,6/26/24,Vintage,18.00,Tops
+114,Mercari,6/21/24,NULL,6/26/24,Levi,20.00,Bottoms
